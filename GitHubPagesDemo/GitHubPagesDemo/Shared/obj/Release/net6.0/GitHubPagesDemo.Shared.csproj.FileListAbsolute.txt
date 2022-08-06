@@ -1,0 +1,12 @@
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\bin\Release\net6.0\GitHubPagesDemo.Shared.deps.json
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\bin\Release\net6.0\GitHubPagesDemo.Shared.dll
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\bin\Release\net6.0\GitHubPagesDemo.Shared.pdb
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.csproj.AssemblyReference.cache
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.AssemblyInfo.cs
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.dll
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\refint\GitHubPagesDemo.Shared.dll
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\GitHubPagesDemo.Shared.pdb
+C:\Users\angeloq\source\repos\GitHubPagesDemo\GitHubPagesDemo\GitHubPagesDemo\Shared\obj\Release\net6.0\ref\GitHubPagesDemo.Shared.dll
